@@ -1,4 +1,6 @@
 {
+	"name": "rafael-goncalves/mvc",
+    "description": "MVC do curso PHPModerno",
 	"require": {
 		"symfony/http-foundation": "*"
 	},
